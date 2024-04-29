@@ -4,7 +4,7 @@ This script is designed to scrape movie data from a list of URLs containing movi
 This Python script scrapes movie data from "https://www.themoviedb.org/" and extracts details such as name, release date, ratings, duration, genres, and director. The data is then saved into an Excel file.
 # Details Fetched
 - Movie Name
-- Movie Release Date
+- Movie Released Date
 - Movie Genre
 - Movie Duration
 - Movie Ratings
